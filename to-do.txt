@@ -1,0 +1,3 @@
+#limitacoes do momento: o id tem que ser chamado id
+#ele está entrando na lista de parametros pra criar usuario, remover oq for 1key
+#qd for adicionar, lembrar de incluir no no server.js as rotas
